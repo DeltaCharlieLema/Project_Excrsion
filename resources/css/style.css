@@ -1,0 +1,30 @@
+*{
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+#camp{
+  width: 120%;
+}
+section{
+  margin: 1rem auto;
+  flex-basis: 100%;
+  width: 100%;
+}
+img{
+  margin:0;
+}
+a{
+  color: lightgreen;
+  font-size: 1.5rem;
+}
+h1,h2{
+  color: white;
+  font-size: 3rem;
+}
+p{
+  color: grey;
+  font-size: 1.5rem;
+}
